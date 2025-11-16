@@ -19,3 +19,6 @@ The script sends a request to:
 ```
 
 This returns a short weather summary containing the condition and temperature.
+## 📂 File
+
+- [weather.py](http://weather.py/): Main script that fetches and prints the weather.
