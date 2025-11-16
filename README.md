@@ -9,3 +9,13 @@ A simple Python script that fetches real-time weather information for any city u
 * Minimal and easy-to-understand code.
 
 
+## 🚀 How It Works
+
+The script sends a request to:
+
+```
+<https://wttr.in/><city>?format=%C+%t
+
+```
+
+This returns a short weather summary containing the condition and temperature.
