@@ -22,3 +22,13 @@ This returns a short weather summary containing the condition and temperature.
 ## 📂 File
 
 - [weather.py](http://weather.py/): Main script that fetches and prints the weather.
+## 🛠️ Requirements
+
+Make sure you have the `requests` library installed:
+
+```bash
+pip install requests
+
+```
+
+## ▶️ Usage
