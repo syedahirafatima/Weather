@@ -32,3 +32,11 @@ pip install requests
 ```
 
 ## ▶️ Usage
+Run the script in your terminal:
+
+```bash
+python weather.py
+
+```
+
+Enter the city name when prompted:
