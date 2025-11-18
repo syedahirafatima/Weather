@@ -43,3 +43,9 @@ Enter the city name when prompted:
 ```
 Enter city name: London
 ```
+
+Output example:
+
+```
+Partly cloudy +10°C
+```
