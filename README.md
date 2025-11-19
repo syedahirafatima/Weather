@@ -57,3 +57,4 @@ Partly cloudy +10°C
     Could not fetch weather.
 ```
 ## 📜 License
+Under MIT License.
