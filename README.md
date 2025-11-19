@@ -49,3 +49,7 @@ Output example:
 ```
 Partly cloudy +10°C
 ```
+## ⚠️ Notes
+
+- You need an active internet connection.
+- If the API cannot fetch data, the script returns:
