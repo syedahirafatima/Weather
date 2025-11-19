@@ -53,3 +53,7 @@ Partly cloudy +10°C
 
 - You need an active internet connection.
 - If the API cannot fetch data, the script returns:
+```
+    Could not fetch weather.
+```
+## 📜 License
